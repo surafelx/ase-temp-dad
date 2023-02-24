@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Harvesting the Sun's energy for better tomorrow",
+    "title": "Harvesting the Sun's energy for a better tomorrow",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -69,32 +69,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-tint",
       "name": "Water-Well Drilling",
       "text": " Our team of experts can drill wells to provide access to clean water for irrigation and other agricultural needs. We use state-of-the-art equipment to ensure the wells are safe, efficient and sustainable."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-sun-o",
       "name": "Solar-Powered Water Pump",
       "text": "Our solar water pump is an eco-friendly alternative to traditional water pumping systems. It uses the power of the sun to pump water, making it a cost-effective solution for farmers and rural communities."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-pagelines",
       "name": "Water-Saving Irrigation",
       "text": "We provide solutions for water-saving irrigation, which helps farmers to conserve water and reduce their operating costs. Our solutions include drip irrigation, sprinkler systems, and other innovative technologies."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-link",
       "name": "Value Chain Activities",
       "text": "We help farmers to develop and enhance their value chain activities, from growing and harvesting crops to processing and selling their products. We work with farmers to optimize their production and marketing processes, helping them to increase their income and improve their livelihoods."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-leaf",
       "name": "Urban Agriculture",
       "text": "Our team of experts can help you set up and manage an urban agriculture project. Whether you want to grow food for your family or start a commercial enterprise, we can provide guidance and support every step of the way."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-pencil-square-o",
       "name": "Systems Design",
       "text": "Our systems design team can help you plan and implement sustainable agriculture and water management systems. From choosing the right crops and equipment to developing efficient irrigation systems, we'll work with you to ensure your project is a success."
     }
